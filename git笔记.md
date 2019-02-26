@@ -59,7 +59,9 @@ git push -u origin master //推送
 git push origin master 	//后面用这个推送
 ```
 
-`git clone`克隆一个本地库  
+在c/user/hp/.ssh    id_rsa.pub
+
+git clone`克隆一个本地库  
 
 ​	git clone  https://github.com/Pusenlin/gitskills.git
 
