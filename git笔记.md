@@ -34,7 +34,9 @@
 
 ​	`git reset HEAD <file> `  可以把暂存区的修改撤销掉（unstage）
 
-​	确实要从版本库中删除该文件，那就用命令`git rm`删掉，并且`git commit
+​	确实要从版本库中删除该文件，那就用命令`git rm`删掉，并且 git commit  
+
+ 										git rm test.txt
 
 ​	`git checkout`其实是用版本库里的版本替换工作区的版本，无论工作区是修改还是删除，都可以“一键还原”。 git checkout -- test.txt
 
