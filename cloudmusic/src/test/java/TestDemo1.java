@@ -14,4 +14,8 @@ public class TestDemo1 {
     public void fun2(){
         String s = "";
     }
+	@Test
+    public void fun3(){
+        System.out.println("你好");
+    }
 }
