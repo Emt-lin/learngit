@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/src/main/webapp/music/Angel With A Shotgun.mp3" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/music/Color Blind.mp3" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/music/Dream It Possible.mp3" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/music/Here With You.mp3" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/music/Nothing To Fear.mp3" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/music/Ryan.B,AY楊佬叁 - 再也没有.mp3" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/music/The xx - Intro.mp3" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/music/东京不太热.mp3" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/music/光年之外.mp3" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/music/最美情侣.mp3" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/music/绯村柯北,灰老板 - 东流.mp3" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/music/轮回之境.mp3" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/music/陈一发儿 - 童话镇.mp3" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/music/陈韵若,陈每文 - 爱的回归线.mp3" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
